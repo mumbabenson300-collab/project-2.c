@@ -1,4 +1,3 @@
-nano 8.6                                                                              Day1_folder
 #include <stdio.h>
 int main() {
     float num1, num2;
